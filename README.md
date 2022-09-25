@@ -8,7 +8,6 @@ CRUD operation to manage Companies and their employees - create/edit/update/dele
 ![employees](ReadmeImages/Capture2.JPG)
 
 ### User View
-CRUD operation to manage Companies and their employees - create/edit/update/delete.
 
 ![companies](ReadmeImages/Capture3.JPG)
 ![employees](ReadmeImages/Capture4.JPG)
