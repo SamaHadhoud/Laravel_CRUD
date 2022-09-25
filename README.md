@@ -47,7 +47,10 @@ Please use and reuse however you want.
 ---
 
 ## Resources
-If you are still learning, Here are some videos that were helpful while making this project:
-- [CRUD](https://www.youtube.com/watch?v=MYyJ4PuL4pY&t=12197s)
-- [Multi Auth](https://www.youtube.com/watch?v=-9tUWhNmQz4&t=1170s)
-- and of course laravel documentation.
+- All of the logos are from: [freepik](www.freepik.com)
+- Some of the front-end templates are form [laragigs_theme](https://github.com/bradtraversy/laragigs/tree/main/_laragigs_theme)
+- Profile photos of the users are characters of [The Simpsons](https://g.co/kgs/b79Z4V)
+- If you are still learning, Here are some videos that were helpful while making this project:
+    - [CRUD](https://www.youtube.com/watch?v=MYyJ4PuL4pY&t=12197s)
+    - [Multi Auth](https://www.youtube.com/watch?v=-9tUWhNmQz4&t=1170s)
+    - and of course laravel documentation.
