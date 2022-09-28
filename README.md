@@ -1,5 +1,5 @@
 # Laravel_CRUD
-This is a simple laravel app with CRUD, multi authentication (admin and user), and live search.
+This is a simple Laravel app for managing multiple companies and their employees with CRUD operations, multi authentication (admin and user), and live search.
 
 ### Admin View
 CRUD operation to manage Companies and their employees - create/edit/update/delete.
